@@ -71,3 +71,7 @@ Medical image analysis
 
 # Author
 Sharmin Akhter
+Machine Learning & Deep Learning Researcher
+🔗 LinkedIn: https://linkedin.com/in/asharmincs
+📚 Google Scholar: https://scholar.google.com/citations?user=rHqGuCoAAAAJ
+📧 Email: asharmin.cs@gmail.com
