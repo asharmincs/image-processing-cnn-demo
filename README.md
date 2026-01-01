@@ -1,16 +1,8 @@
 # image-processing-cnn-demo
-A beginner-friendly image processing and deep learning project using Python and TensorFlow. The project demonstrates image preprocessing, CNN model building, training, prediction, and model saving using a simple uploaded image. Designed for learning and experimentation.
+A beginner-friendly image processing and deep learning project using Python and TensorFlow. This project demonstrates image preprocessing, CNN model building, training, prediction, and model saving using a simple uploaded image. Designed for learning and experimentation.
 
-# topics
-image-processing
-deep-learning
-computer-vision
-cnn
-tensorflow
-keras
-python
-machine-learning
-beginner-project
+# Topics
+image-processing, deep-learning, computer-vision, cnn, tensorflow, keras, python, machine-learning, beginner-project
 
 # Project Structure
 image-processing-cnn-demo/
@@ -37,54 +29,45 @@ image-processing-cnn-demo/
 ├── LICENSE
 └── README.md
 
-# Image Processing with CNN (Beginner Project)
-
+# Overview
 This project demonstrates a complete end-to-end workflow for image processing and deep learning using a Convolutional Neural Network (CNN). It is designed for beginners who want hands-on experience with computer vision and TensorFlow.
 
-## Features
-- Image upload and preprocessing
-- Grayscale conversion and resizing
-- CNN model building using TensorFlow/Keras
-- Model training and prediction
-- Model saving for reuse
+# Features
+Image upload and preprocessing
+Grayscale conversion and resizing
+CNN model building using TensorFlow/Keras
+Model training and prediction
+Model saving for reuse
 
-## Technologies Used
-- Python
-- TensorFlow / Keras
-- OpenCV
-- NumPy
-- Matplotlib
+# Technologies Used
+Python
+TensorFlow / Keras
+OpenCV
+NumPy
+Matplotlib
 
-## Folder Structure
-data/original -> Original images
-data/processed -> Preprocessed images
-models -> Saved deep learning models
-notebook -> Google Colab notebook
-src -> Modular Python scripts
+# How to Run (Google Colab)
+Open the notebook in the notebook folder.
+Run all cells sequentially.
+Upload an image when prompted.
+The trained model will be saved in the models directory.
 
+# Model Output
+Binary classification output (0 or 1)
+Saved model in .keras format
 
-## How to Run (Google Colab)
-1. Open the notebook in the `notebook` folder.
-2. Run all cells sequentially.
-3. Upload an image when prompted.
-4. The trained model will be saved in the `models` directory.
+# Use Cases
+Learning image preprocessing
+Understanding CNN fundamentals
+Deep learning project structure
+Portfolio project for beginners
 
-## Model Output
-- Binary classification output (0 or 1)
-- Saved model in `.keras` format
+# Future Improvements
+Add real datasets
+Multi-class classification
+Data augmentation
+Transfer learning (VGG16, ResNet)
+Medical image analysis
 
-## Use Cases
-- Learning image preprocessing
-- CNN fundamentals
-- Deep learning project structure
-- Portfolio project for beginners
-
-## Future Improvements
-- Add real datasets
-- Multi-class classification
-- Data augmentation
-- Transfer learning (VGG16, ResNet)
-- Medical image analysis
-
-## Author
+# Author
 Sharmin Akhter
